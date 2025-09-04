@@ -68,9 +68,5 @@ This repository showcases my comprehensive work from the MIS 6360 Agile Project 
 - Gained hands-on experience with modern project management tools
 - Enhanced team collaboration and stakeholder communication skills
 - Applied design thinking principles to project planning and execution
-
-## 🎓 Academic Performance
-All projects completed with high marks, demonstrating comprehensive understanding of agile project management principles and practical application skills.
-
 ---
 *This portfolio represents the culmination of intensive study and practical application of agile project management methodologies in real-world scenarios.*
